@@ -1,7 +1,7 @@
 {
-   "description": "Ayu Theme",
+   "description": "Elly Theme",
    "manifest_version": 2,
-   "name": "Ayu Theme",
+   "name": "Elly Theme",
    "theme": {
       "colors": {
          "bookmark_text": [ 192, 199, 202 ],
@@ -23,5 +23,5 @@
       }
    },
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "2"
+   "version": "1"
 }
