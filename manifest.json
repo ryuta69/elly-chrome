@@ -1,0 +1,27 @@
+{
+   "description": "Ayu Theme",
+   "manifest_version": 2,
+   "name": "Ayu Theme",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 192, 199, 202 ],
+         "frame": [ 17, 26, 31 ],
+         "ntp_background": [ 17, 26, 31 ],
+         "ntp_text": [ 125, 134, 142 ],
+         "tab_background_text": [ 192, 199, 202 ],
+         "tab_background_text_inactive": [ 192, 199, 202 ],
+         "tab_background_text_incognito": [ 192, 199, 202 ],
+         "tab_background_text_incognito_inactive": [ 192, 199, 202 ],
+         "tab_text": [ 192, 199, 202 ],
+         "toolbar": [ 17, 26, 31 ]
+      },
+      "tints": {
+         "buttons": [ 0.2, 0.2, 0.9 ],
+         "frame_inactive": [ -1, -1, -1 ],
+         "frame_incognito": [ -1, -1, -1 ],
+         "frame_incognito_inactive": [ -1, -1, -1 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2"
+}
